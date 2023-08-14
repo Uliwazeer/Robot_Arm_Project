@@ -1,0 +1,13 @@
+/*
+ * timer1_privet.h
+ *
+ *  Created on: 18 Nov 2022
+ *      Author: kareem
+ */
+
+#ifndef TIMER1_PRIVET_H_
+#define TIMER1_PRIVET_H_
+
+
+
+#endif /* TIMER1_PRIVET_H_ */
